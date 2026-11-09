@@ -130,10 +130,6 @@ Roblox's rules as of Nov 2026. Check the [Marketplace Policy](https://create.rob
 - **What you earn:** 30% of each Marketplace sale, more if you price above the minimum. Inside your own game, you also get the game owner's 40%.
 - **Content rules:** don't copy brand logos, other games' characters or real people. Roblox removes those items, and you lose the fees.
 
-## Using it with Claude Code
-
-`CLAUDE.md` explains how the code works and how to check changes, so an AI coding agent can pick up the project without rereading everything.
-
 ## License
 
 MIT. See [LICENSE](LICENSE).
