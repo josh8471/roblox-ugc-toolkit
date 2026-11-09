@@ -1,0 +1,35 @@
+{
+  "name": "pastel_dream",
+  "shirt": {
+    "type": "tee",
+    "length": 96,
+    "color": "#ffd6e8",
+    "color2": "#ffc2dc",
+    "trim": "#ff8fb8",
+    "pattern": {"type": "dots", "color": "#ffffff", "size": 12},
+    "front_icon": "heart",
+    "front_text": "dreamy",
+    "icon_color": "#ff5d8f",
+    "text_color": "#ff5d8f",
+    "text_outline": "#ffffff",
+    "back_icon": "star",
+    "icon_outline": "#ffffff"
+  },
+  "pants": {
+    "type": "jeans",
+    "color": "#9cc3e6",
+    "stitch": "#f4f4f4",
+    "belt": "#ffffff",
+    "ripped": true,
+    "shoes": "#ffffff",
+    "sole": "#ffb3cf",
+    "laces": "#ff8fb8"
+  },
+  "tshirt": {
+    "icon": "heart",
+    "text": "dreamy",
+    "icon_color": "#ff5d8f",
+    "text_color": "#ff5d8f",
+    "text_outline": "#ffffff"
+  }
+}

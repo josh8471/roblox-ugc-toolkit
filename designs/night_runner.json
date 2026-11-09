@@ -1,0 +1,21 @@
+{
+  "name": "night_runner",
+  "shirt": {
+    "type": "hoodie",
+    "color": "#1f2433",
+    "color2": "#12151f",
+    "front_icon": "bolt",
+    "front_text": "NIGHT RUN",
+    "icon_color": "#ffd23f",
+    "text_color": "#ffffff",
+    "back_text": "RUNNER\n07",
+    "string_color": "#ffd23f"
+  },
+  "pants": {
+    "type": "cargo",
+    "color": "#4a4f3a",
+    "shoes": "#1b1b1b",
+    "sole": "#e9e9e9",
+    "shoe_accent": "#ffd23f"
+  }
+}

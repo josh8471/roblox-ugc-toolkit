@@ -1,0 +1,20 @@
+{
+  "name": "red_track",
+  "shirt": {
+    "type": "jacket",
+    "color": "#d62839",
+    "color2": "#a4161a",
+    "inner_color": "#f5f5f5",
+    "stripes": {"color": "#ffffff", "count": 2},
+    "front_text": "TRACK",
+    "back_text": "TEAM\n26"
+  },
+  "pants": {
+    "type": "trackpants",
+    "color": "#d62839",
+    "color2": "#a4161a",
+    "stripes": {"color": "#ffffff", "count": 2},
+    "shoes": "#ffffff",
+    "sole": "#d9d9d9"
+  }
+}
